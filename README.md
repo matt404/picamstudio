@@ -5,9 +5,9 @@ web UI allowing users to operate the camera and adjust its features.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://github.com/matt404/picamstudio/blob/master/images/screenshot1.png?raw=true)
+![alt text](https://github.com/matt404/picamstudio/blob/main/images/screenshot1.png?raw=true)
 
-![alt text](https://github.com/matt404/picamstudio/blob/master/images/picamstudio_picam.jpg?raw=true)
+![alt text](https://github.com/matt404/picamstudio/blob/main/images/picamstudio_picam.jpg?raw=true)
 
 ## Development
 
