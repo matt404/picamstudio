@@ -12,7 +12,7 @@
     <option name="EXECUTE_IN_TERMINAL" value="false" />
     <option name="EXECUTE_SCRIPT_FILE" value="true" />
     <envs>
-      <env name="SSH_SERVER_HOST" value="[Enter your Pi Hostname Here]" />
+      <env name="SSH_SERVER_HOST" value="picamhd.flg.domo" />
     </envs>
     <method v="2" />
   </configuration>

@@ -13,6 +13,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was developed using Jetbrains Webstorm, there are multiple run configurations available in the debug folder.
 
+To install picamera2 on a Raspberry Pi, run the following commands:
+
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install -y python3-picamera2
+```
+
 ## Contributing
 
 This is an open source project and the community is invited to make changes.

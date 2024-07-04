@@ -15,7 +15,7 @@ from picamera2.outputs import FileOutput
 from libcamera import Transform
 
 PAGE=""
-APP_PATH="/home/ubu/picamstudio"
+APP_PATH="/home/rpi/picamstudio"
 
 ROOT_URL_FILES = [
     '/index.html',

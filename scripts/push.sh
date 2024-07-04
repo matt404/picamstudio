@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-sh scripts/env_vars.sh
+echo "Pushing to $SSH_SERVER_HOST"
 
-scp server/serveHttp.py ubu@"$SSH_SERVER_HOST":/home/ubu/picamstudio/
-scp -r build/* ubu@"$SSH_SERVER_HOST":/home/ubu/picamstudio/www/
+scp server/serveHttp.py rpi@"$SSH_SERVER_HOST":/home/rpi/picamstudio/
+scp -r build/* rpi@"$SSH_SERVER_HOST":/home/rpi/picamstudio/www/
